@@ -1,0 +1,14 @@
+{
+    "delay": {
+        "error": 5000,
+        "normal": 1000
+    },
+    "hook": {
+        "Media": "https://discord.com/api/webhooks/10389...",
+        "Saturn": "https://discord.com/api/webhooks/103894..."
+    },
+    "helheim": {
+        "key": "",
+        "2captcha": ""
+    }
+}

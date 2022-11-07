@@ -1,0 +1,19 @@
+{
+    "restocks": {
+        "id": "INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT",
+        "pid": "INTEGER",
+        "title": "TEXT",
+        "image": "TEXT",
+        "price": "TEXT",
+        "status": "TEXT",
+        "last_change": "TEXT",
+        "add_date": "TEXT"
+    },
+    "kws_db": {
+        "id": "INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT", 
+        "kws": "TEXT",
+        "data": "TEXT",
+        "last_change": "TEXT",
+        "add_date": "TEXT"
+    }
+}
